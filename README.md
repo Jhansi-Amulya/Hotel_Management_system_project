@@ -1,5 +1,4 @@
 # Hotel_Management_system_project
-Hotel-Management-System
 This is a Python-based Hotel Management System that allows users to manage bookings, customer details, and hotel rooms efficiently. The project includes a GUI built with Tkinter and supports features like adding new customers, viewing booking details, and managing room availability.
 
 Features
